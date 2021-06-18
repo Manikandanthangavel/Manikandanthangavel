@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manikandanthangavel
 - 👀 I’m interested in Developement side
-- 🌱 I’m currently learning Salesforce
+- 🌱 I’m currently learning React Js
 - 📫 Here is my mail Id maheshthangavel333@gmail.com
 
 <!---
